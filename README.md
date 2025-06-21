@@ -21,11 +21,6 @@ An interactive 3D simulation of the solar system built using **React** and **Thr
 - [Three.js](https://threejs.org/) (3D rendering)
 - [Vite](https://vitejs.dev/) (development bundler)
 
----
-
-## 📸 Screenshots
-
-> Add screenshots or a demo GIF here if you have them.
 
 ---
 
